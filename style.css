@@ -71,16 +71,37 @@
     outline: none;
     border: none;
     margin-left: 19px;
-    background-color: #cadbed;
-    margin-top: 8px;
+    background-color: #cadbed;  
+    margin-top: 10px;
   }
   button {
+    position: relative;
     width: 30px;
     height: 30px;
     background-color: #2c71b1;
+    top: auto;
+    bottom: 23px;
+    margin-bottom: 0px;
+    left: 165px;
+
   }
+
 .menu2{
-  display: none;
+  display:none;
+  position: absolute;
+}
+.menu > li:hover > .menu2 {
+  display: inline;
+  background-color:#2c71b1;
   width: 285px;
   height: 315px;
+}
+.menu > li:hover > .menu2 > li > a {
+  color: white;
+}
+.list > a{
+  float: left;
+  margin-top:30px;
+  margin-left:30px;
+  margin-bottom: 25px;
 }
