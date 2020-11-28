@@ -79,3 +79,8 @@
     height: 30px;
     background-color: #2c71b1;
   }
+.menu2{
+  display: none;
+  width: 285px;
+  height: 315px;
+}
