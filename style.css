@@ -39,7 +39,7 @@
     padding-right: 15px;
     padding-left: 15px;
   }
-  .menu li {
+  .menu > li {
     width: 25%;
     float: left;
     border-left: 1px solid #2c71b8;
@@ -104,8 +104,12 @@
   color: white;
 }
 .list > a{
-  float: left;
   margin-top:30px;
   margin-left:30px;
   margin-bottom: 25px;
+}
+.menu > .pr > .menu2 > .list {
+  width: 25%;
+  float: left;
+  border-left: 1px solid #2c71b8;
 }
