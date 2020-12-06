@@ -169,7 +169,7 @@ li{
   left: 520px;
   top: -900px;
   position: relative;
-  height: 2200px;
+  height: 670px;
   width: 900px;
 }
 h2{
@@ -217,7 +217,7 @@ h2{
 }
 .po{
   margin-left: 230px;
-  margin-top: -130px;
+  margin-top: -124px;
 }
 .lp{
   margin-left: 230px;
@@ -292,4 +292,9 @@ color:white;
   margin-top: 40px;
 }
 /*3*/
-
+.fd{
+  position: absolute;;
+}
+.xc{
+ 
+}
