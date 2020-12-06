@@ -130,6 +130,7 @@ li{
   margin-top:25px;
 }
 .top2{
+  font-weight: bold;
   padding-top: 40px;
   margin-top: 70px;
 }
@@ -137,6 +138,8 @@ li{
   font-size: 21px;
 } 
 .twob{
+  color: white;
+  font-weight: bold;
   top: 20px;
   margin-left: 35px;
   border:1px solid white;
@@ -151,7 +154,9 @@ li{
 .yui , .yui2 , .more {
   margin-left: 25px;
 }
-
+.top3{
+  font-weight: bold;
+}
 
 .dfg{
   font-size: 14px;
@@ -168,6 +173,7 @@ li{
   width: 900px;
 }
 h2{
+  font-weight: bold;
   margin-left: 30px;
   margin-top: 30px;
   color: white;
@@ -189,4 +195,95 @@ h2{
   border:1px solid white;
   width: 270px;
   height: 650px;
+  float: left;
+}
+.im{
+  width: 270px;
+  height: 180px;
+  background-color:rgba(255, 255, 255, 0.692) ;
+}
+.op{
+  margin-top:45px;
+  margin-left: 80px;
+}
+.po , .lp {
+  width: 30px;
+  height: 30px;
+  border:1px solid #2c71b1; 
+}
+.ff {
+  margin-left: 5px;
+  margin-top: 5px;
+}
+.po{
+  margin-left: 230px;
+  margin-top: -130px;
+}
+.lp{
+  margin-left: 230px;
+  margin-top: 5px;
+}
+.qw{
+  margin-top:15px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+}
+.lr{
+  color: white;
+  font-size: 21px;
+  margin-left: 15px;
+  margin-top:20px;
+}
+span{
+  font-weight: bold;
+  color: white;
+}
+.kp{
+  margin-left: 15px;
+  font-size: 21px;
+  color:white;
+  margin-top:15px;
+}
+.df{
+  color: white;
+  margin-left: 15px;
+  margin-top: 15px;
+  font-size: 21px;
+}
+.gh{
+margin-top: 15px;
+margin-left: 15px;
+font-size: 21px;
+color:white;
+}
+.c{
+  margin-left: 65px;
+}
+.v{
+  position: relative;
+  left: 180px;
+  top: -50px;
+  font-size: 21px;
+}
+.pb{
+  width: 210px;
+  height: 50px;
+  border:1px solid white;
+  left: 27px;
+}
+.hg{
+  width: 210px;
+  height: 50px;
+  border:1px solid white;
+  left: 27px;top: 10px;
+}
+/*2*/
+.n{
+  margin-left: 65px;
+  margin-left: 40px;
+}
+.lk{
+  margin-left: 15px;
 }
